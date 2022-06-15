@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\02-ConteoDeDiezNumeros\02-ConteoDeDiezNumeros\bin\Debug\02-ConteoDeDiezNumeros.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\02-ConteoDeDiezNumeros\02-ConteoDeDiezNumeros\bin\Debug\02-ConteoDeDiezNumeros.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\02-ConteoDeDiezNumeros\02-ConteoDeDiezNumeros\obj\Debug\02-ConteoDeDiezNumeros.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\02-ConteoDeDiezNumeros\02-ConteoDeDiezNumeros\obj\Debug\02-ConteoDeDiezNumeros.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\02-ConteoDeDiezNumeros\02-ConteoDeDiezNumeros\obj\Debug\02-ConteoDeDiezNumeros.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\02-ConteoDeDiezNumeros\02-ConteoDeDiezNumeros\obj\Debug\02-ConteoDeDiezNumeros.pdb
